@@ -1,0 +1,3 @@
+%{
+  "fonts": {:git, "https://github.com/google/fonts", "9c5708e735fc805514913d46d259945a3b6ba67a", [ref: "9c5708e735fc805514913d46d259945a3b6ba67a", depth: 1, sparse: "ofl/ibmplexserif"]},
+}
